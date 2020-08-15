@@ -1,0 +1,9 @@
+5
+ADD
+3
+MULTIPLY
+4
+UNDO
+2
+ADD
+6
